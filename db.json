@@ -1,0 +1,28 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "O labirinto do Logcat",
+            "capa": "https://m.media-amazon.com/images/I/81FG5KB-8sL._AC_UF1000,1000_QL80_.jpg",
+            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        },
+        {
+            "id": 2,
+            "title": "Um componente no espaço",
+            "capa": "https://3.bp.blogspot.com/-UTLXdHFgJDI/XMRhHqXoQTI/AAAAAAABy_4/PLGEnF2rQc4pzDtxayEKsKaJtwjxV7yqgCLcBGAs/s1600/soundtrack.jpg",
+            "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
+        },
+        {
+            "id": 3,
+            "title": "O poderoso JavaScript",
+            "capa": "https://legadodamarvel.com.br/wp-content/uploads/2021/10/FCUzyDmVUAA8soy.jpg",
+            "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
+        },
+        {
+            "id": 4,
+            "title": "Dart, o Caçador de Andróides",
+            "capa": "https://one-cinema.s3.sa-east-1.amazonaws.com/filmes/spider-man-into-the-spider-verse/10062020/342/capa-spider-man-into-the-spider-verse.jpg",
+            "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
+        }
+    ]
+}
